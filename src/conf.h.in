@@ -1,0 +1,7 @@
+#ifndef MD5_CONF_H_
+#define MD5_CONF_H_
+
+#cmakedefine01 MD5_BIG_ENDIAN
+#cmakedefine01 MD5_DEBUG
+
+#endif // MD5_CONF_H_
